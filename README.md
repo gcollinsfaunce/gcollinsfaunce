@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Principles of Management, Python Programming
 - 💞️ I’m looking to collaborate on ... anything possible
 - 📫 How to reach me ... 807 cushing rd, Warren, Maine. gcollinsfaunce54@gmail.com
+- Anyone and everyone can reach me on this as well
 
 <!--- We are only as good as we can get but we aren't ever perfect
 gcollinsfaunce/gcollinsfaunce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
